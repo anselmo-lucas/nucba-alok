@@ -523,7 +523,6 @@ input{
     }
     
     .contenedor-biografia{
-        height: 220vh;
         display: flex;
         justify-content: center;
     }
