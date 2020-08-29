@@ -524,7 +524,6 @@ input{
     
     .contenedor-biografia{
         height: 220vh;
-        overflow: hidden;
         display: flex;
         justify-content: center;
     }
